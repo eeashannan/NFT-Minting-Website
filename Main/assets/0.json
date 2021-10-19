@@ -1,0 +1,40 @@
+{
+    "name": "NFT 0",
+    "symbol": "",
+    "description": "Name : hannan ",
+    "seller_fee_basis_points": 250,
+    "image": "image.png",
+    "attributes": [
+      {
+        "trait_type": "hat",
+        "value": "belt"
+      },
+      {
+        "trait_type": "outfit",
+        "value": "awards"
+     },
+     {
+        "trait_type": "mouth",
+        "value": "open"
+      }
+    ],
+    "collection": {
+       "name": "NFT Task Collection",
+       "family": "NFT"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "9vjX6ptR1h8Y74HJg6827tYYkLHXtnNtcGK1fpyvnKoC",
+          "share": 100
+        }
+      ]
+    }
+  }

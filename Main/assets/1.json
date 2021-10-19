@@ -1,0 +1,40 @@
+{
+    "name": "NFT 1",
+    "symbol": "",
+    "description": "Monkey 1 ",
+    "seller_fee_basis_points": 250,
+    "image": "image.png",
+    "attributes": [
+      {
+        "trait_type": "hat",
+        "value": "no"
+      },
+      {
+        "trait_type": "outfit",
+        "value": "t-shirt"
+     },
+     {
+        "trait_type": "mouth",
+        "value": "open"
+      }
+    ],
+    "collection": {
+       "name": "NFT Task Collection",
+       "family": "NFT"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "2BZxi9MXAQouN6FVQxf7jedWwzwCi9o3STwY172iTLZC",
+          "share": 100
+        }
+      ]
+    }
+  }
